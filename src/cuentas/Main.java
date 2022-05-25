@@ -23,6 +23,10 @@ public class Main {
  *
  * Añadido comentario de prueba
  */
+    /**
+ *
+ * Añadido comentario de prueba
+ */
     public static void operativa_cuenta(CCuenta cuenta1) {
         
         try {
