@@ -19,7 +19,10 @@ public class Main {
 
         operativa_cuenta(cuenta1);
     }
-
+/**
+ *
+ * Añadido comentario de prueba
+ */
     public static void operativa_cuenta(CCuenta cuenta1) {
         
         try {
